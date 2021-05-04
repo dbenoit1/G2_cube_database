@@ -1,5 +1,5 @@
 # G2_cube_database
-Repository of the G2 dataset electronic density cubes computed at the SVWN/aug-cc-pVQZ level of theory
+Repository of the G2/97 dataset (https://doi.org/10.1063/1.473182) electronic density cubes computed at the SVWN/aug-cc-pVQZ level of theory using NWChem 6.6 with xfine grid setting.
 
 Title of cube file contains (All energies are in Hartrees):
 
